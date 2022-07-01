@@ -3,6 +3,6 @@ Self-maintained blog, made with the Hugo theme [`hello-friend`](https://github.c
 
 [![blog](https://raw.githubusercontent.com/norombabajd/blog/main/static/demo.png)](https://blog.norombabajd.com/posts/hello-world/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9d64dc20-5e48-4d89-8cd0-65494543db2f/deploy-status)](https://app.netlify.com/sites/norombabajd-blog/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca75e82b-c972-42d2-abd3-1aa46c48044a/deploy-status)](https://app.netlify.com/sites/norombabajd-blog/deploys)
 
 [Read more here.](https://blog.norombabajd.com/posts/hello-world/)
